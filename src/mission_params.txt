@@ -1,0 +1,7 @@
+date 2024-04-12 14:30:00
+ra 0.5
+declination 90.3
+velocity 530000.8
+longitude 0.7
+latitude 90.76
+elevation 100
